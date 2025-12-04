@@ -18,3 +18,5 @@ These are the models
 6. CNN (Not used in final presentation)
 7. Anomaly Detection
 
+We found that the best preforming model was transformer, however we do understand that this may change if we had more compute power to test more hyperparameters.
+
