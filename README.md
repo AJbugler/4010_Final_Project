@@ -3,11 +3,11 @@ Welcome to our Final Project!
 We are predicting PM2.5 Values in Beijing to improve air quality infrastructure
 
 Here are the important features we needed to look at...
-1.
-2.
-3.
-4.
-5.
+1. PM_US Post (Our Target Variable)
+2. Year,Month,Day,Hour (Time steps)
+3. DEWP, TEMP, HUMI, PRES (Weather statistics)
+4. IWS (Cumulated wind Speed)
+5. Iprec (Cumulated precipitation)
 
 These are the models
 1. Transformer
